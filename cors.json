@@ -1,0 +1,15 @@
+[
+  {
+    "origin": [
+      "http://localhost:4200",
+      "https://neo-portal-proveedores-477002.web.app"
+    ],
+    "method": ["GET", "PUT", "HEAD", "POST", "DELETE"],
+    "responseHeader": [
+      "Content-Type",
+      "x-goog-resumable",
+      "x-goog-content-length-range"
+    ],
+    "maxAgeSeconds": 3600
+  }
+]

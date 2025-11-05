@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+venv311/
+.env/
+.venv/
+
+# Archivos y carpetas de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración local
+*.env
+*.log
+
+neo-portal-backend-key.json
+
+neo-portal-backend-key.json.example
